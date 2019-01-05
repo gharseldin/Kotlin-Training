@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66663f8-328a-45f3-a880-ec7cc80ecee7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/DataTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/ExceptionHandling.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/FirstApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/Loops.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhenConditional.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/WhenConditional.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section1/conditionals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/ConditionalsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/DataTypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/ExceptionHandlingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/FirstApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/LoopsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/WhenConditionalKt.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +20,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/section1/ExceptionHandling.kt" />
         <option value="$PROJECT_DIR$/src/course/section1/ExceptionHandling.kt" />
         <option value="$PROJECT_DIR$/src/com/gharseldin/section1/ExceptionHandling.kt" />
+        <option value="$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt" />
       </list>
     </option>
   </component>
@@ -84,11 +97,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546662450224" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546663180536" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/section1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,15 +120,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.course.section1.ExceptionHandlingKt">
-    <configuration name="course.section1.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.gharseldin.section2.FunctionsKt">
+    <configuration name="com.gharseldin.section2.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="course.section1.ConditionalsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.gharseldin.section2.FunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.gharseldin.section2.FunctionsKt" />
         <item itemvalue="Kotlin.course.section1.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.course.section1.LoopsKt" />
         <item itemvalue="Kotlin.course.section1.WhenConditionalKt" />
         <item itemvalue="Kotlin.course.section1.FirstApplicationKt" />
-        <item itemvalue="Kotlin.course.section1.ConditionalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,13 +211,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1476" y="-180" width="1210" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29023972" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29023972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -207,7 +226,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -265,6 +284,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
