@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66663f8-328a-45f3-a880-ec7cc80ecee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" afterDir="false" />
     </list>
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Loops.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -44,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/conditionals.kt" />
         <option value="$PROJECT_DIR$/src/WhenConditional.kt" />
         <option value="$PROJECT_DIR$/src/Loops.kt" />
+        <option value="$PROJECT_DIR$/src/ExceptionHandling.kt" />
       </list>
     </option>
   </component>
@@ -98,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546661995834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546662302179" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -116,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.LoopsKt">
+  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
     <configuration name="ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
@@ -130,14 +140,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DataTypesKt" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.WhenConditionalKt" />
         <item itemvalue="Kotlin.FirstApplicationKt" />
         <item itemvalue="Kotlin.ConditionalsKt" />
-        <item itemvalue="Kotlin.DataTypesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +283,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
