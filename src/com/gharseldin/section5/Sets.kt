@@ -14,7 +14,7 @@ fun main(args: Array<String>){
     for(x in mutableSet)
         println(x)
     mutableSet.add(100)
-    
+
     mutableSet.remove(6)
     for(x in mutableSet)
         println(x)
