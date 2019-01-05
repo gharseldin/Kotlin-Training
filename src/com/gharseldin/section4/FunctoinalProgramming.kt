@@ -5,7 +5,7 @@ fun main(args: Array<String>){
     addition(10,2, mylambdaExpression)
 
     val anotherLambda: (Int, Int)-> Unit = { a, b -> println(a+b)}
-    
+
 }
 
 fun addition(a: Int, b:Int, myFunction:(Int, Int)->Int){

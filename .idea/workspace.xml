@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66663f8-328a-45f3-a880-ec7cc80ecee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section4/ItKeyword.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,11 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section4/ItKeyword.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -119,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/com/gharseldin/section3/DataClasses.kt" />
         <option value="$PROJECT_DIR$/src/com/gharseldin/section3/StaticsInKotlin.kt" />
         <option value="$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt" />
+        <option value="$PROJECT_DIR$/src/com/gharseldin/section4/ItKeyword.kt" />
       </list>
     </option>
   </component>
@@ -153,6 +164,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gharseldin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gharseldin" type="462c0819:PsiDirectoryNode" />
+              <item name="section4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546720784927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546721907188" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -184,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.gharseldin.section4.FunctoinalProgrammingKt">
+  <component name="RunManager" selected="Kotlin.com.gharseldin.section4.ItKeywordKt">
     <configuration name="com.gharseldin.section3.DataClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
@@ -193,19 +211,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.gharseldin.section3.DataClassesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.gharseldin.section3.InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinTraining" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.gharseldin.section3.InheritanceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,13 +255,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.gharseldin.section4.ItKeywordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinTraining" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.gharseldin.section4.ItKeywordKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.gharseldin.section4.ItKeywordKt" />
         <item itemvalue="Kotlin.com.gharseldin.section4.FunctoinalProgrammingKt" />
         <item itemvalue="Kotlin.com.gharseldin.section3.StaticsInKotlinKt" />
         <item itemvalue="Kotlin.com.gharseldin.section3.DataClassesKt" />
         <item itemvalue="Kotlin.com.gharseldin.section3.InterfaceKt" />
-        <item itemvalue="Kotlin.com.gharseldin.section3.InheritanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +419,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section4/FunctoinalProgramming.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section4/ItKeyword.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
