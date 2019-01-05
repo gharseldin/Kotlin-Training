@@ -1,3 +1,5 @@
+package com.gharseldin.section1
+
 fun main(args: Array<String>){
     for ( x in 1..10){
         println(if(x%2 ==0){
