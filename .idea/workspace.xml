@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66663f8-328a-45f3-a880-ec7cc80ecee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/ConditionalsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/DataTypesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/ExceptionHandlingKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/FirstApplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/LoopsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTraining/META-INF/KotlinTraining.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTraining/WhenConditionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -97,7 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546663180536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546663390279" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -289,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section2/Functions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
