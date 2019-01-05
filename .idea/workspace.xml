@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66663f8-328a-45f3-a880-ec7cc80ecee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section3/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gharseldin/section3/Interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section3/Inheritance.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="26">
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section3/Interface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -78,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/com/gharseldin/section2/TailRecurssion.kt" />
         <option value="$PROJECT_DIR$/src/com/gharseldin/section3/ClassBasics.kt" />
         <option value="$PROJECT_DIR$/src/com/gharseldin/section3/Inheritance.kt" />
+        <option value="$PROJECT_DIR$/src/com/gharseldin/section3/Interface.kt" />
       </list>
     </option>
   </component>
@@ -127,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546716805863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546717275253" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -150,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.gharseldin.section3.InheritanceKt">
+  <component name="RunManager" selected="Kotlin.com.gharseldin.section3.InterfaceKt">
     <configuration name="com.gharseldin.section2.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
@@ -203,14 +213,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="course.section1.ExceptionHandlingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.gharseldin.section3.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTraining" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="course.section1.ExceptionHandlingKt" />
+      <option name="MAIN_CLASS_NAME" value="com.gharseldin.section3.InterfaceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.gharseldin.section3.InterfaceKt" />
         <item itemvalue="Kotlin.com.gharseldin.section3.InheritanceKt" />
         <item itemvalue="Kotlin.com.gharseldin.section3.ClassBasicsKt" />
         <item itemvalue="Kotlin.com.gharseldin.section2.TailRecurssionKt" />
         <item itemvalue="Kotlin.com.gharseldin.section2.FunctionsKt" />
-        <item itemvalue="Kotlin.course.section1.ExceptionHandlingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +253,7 @@
     <frame x="1476" y="-180" width="1210" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29537672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29537672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -252,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,8 +348,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section3/Inheritance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="26">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gharseldin/section3/Interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
